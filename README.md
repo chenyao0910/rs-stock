@@ -3,15 +3,16 @@
 這個專案提供了一個小指令腳本，自動獲取 MoneyDJ 的 RS Rank（相對強度）篩選後的股票名單，並根據內建的對照表自動加上市場前綴（TWSE: 或 TPEX:）。
 
 ## 功能特點
+- **自動化更新**：透過 GitHub Action 每天自動執行 `generate_mapping.py`，從證交所官網抓取最新股票清單，確保 `stock_mapping.json` 始終保持最新。
 - **MoneyDJ API 整合**：直接串接 MoneyDJ 的選股 API，支援設定「幾週內」與「RS Rank 大於多少」。
-- **自動標記市場**：內建台灣股市對照表，自動區分上市（TWSE）與上櫃/興櫃（TPEX）。
-- **自定義輸出格式**：輸出格式為 `PREFIX:CODE,PREFIX:CODE`（例如 `TWSE:2330,TPEX:3300`），方便快速複製使用。
+- **自動標記市場**：自動將股票代號區分為上市（TWSE）與上櫃/興櫃（TPEX）。
+- **自定義輸出格式**：輸出格式為 `PREFIX:CODE,PREFIX:CODE`，方便直接複製。
 
 ## 檔案說明
+- `generate_mapping.py`: 獲取最新股票資料並產出對照表的腳本（由 GitHub Action 自動執行）。
 - `rs_filter.py`: 主程式，輸入篩選條件並輸出結果。
 - `stock_mapping.json`: 儲存股票代號與市場（TWSE/TPEX）的映射表。
-- `requirements.txt`: 專案所需的套件清單。
-- `.gitignore`: 忽略虛擬環境與暫存結果。
+- `.github/workflows/update_stock_list.yml`: GitHub Action 設定檔。
 
 ## 使用步驟
 
