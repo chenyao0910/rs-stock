@@ -136564,8 +136564,383 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
+    "058762": {
+        "name": "台灣50中信63購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058763": {
+        "name": "T50反1中信69購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058764": {
+        "name": "台化中信59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058765": {
+        "name": "華城中信59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058766": {
+        "name": "中鋼中信59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058767": {
+        "name": "長榮航中信59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058768": {
+        "name": "臺股指中信5C購09",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058769": {
+        "name": "光寶科永豐5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058770": {
+        "name": "智邦永豐5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058771": {
+        "name": "聯發科永豐5C購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058772": {
+        "name": "牧德永豐5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058773": {
+        "name": "世芯永豐59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058774": {
+        "name": "緯穎永豐5A購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058775": {
+        "name": "勤誠永豐5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058776": {
+        "name": "勤誠永豐5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058777": {
+        "name": "華泰國泰5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058778": {
+        "name": "文曄國泰5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058779": {
+        "name": "牧德國泰5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058780": {
+        "name": "神達國泰5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058781": {
+        "name": "力成國泰5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058782": {
+        "name": "AES國泰5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058783": {
+        "name": "華城國票5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058784": {
+        "name": "川湖國票5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058785": {
+        "name": "威盛國票5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058786": {
+        "name": "創見國票5A購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058787": {
+        "name": "凱基金國票5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058788": {
+        "name": "德律國票5A購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058789": {
+        "name": "健鼎國票5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058790": {
+        "name": "牧德國票5A購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058791": {
+        "name": "康普國票5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058792": {
+        "name": "乙盛國票5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058793": {
+        "name": "GIS國票5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058794": {
+        "name": "上証2X凱基61購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058795": {
+        "name": "道瓊反凱基61購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058796": {
+        "name": "SGBR2X凱基59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058797": {
+        "name": "SGBR2X凱基59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058798": {
+        "name": "台化凱基59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058799": {
+        "name": "華城凱基5A購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058800": {
+        "name": "上銀凱基59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058801": {
+        "name": "光寶科凱基5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058802": {
+        "name": "毅嘉凱基59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058803": {
+        "name": "漢唐凱基5A購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058804": {
+        "name": "京元電凱基59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058805": {
+        "name": "創見凱基59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058806": {
+        "name": "聯發科凱基59購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058807": {
+        "name": "義隆凱基5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058808": {
+        "name": "長榮凱基5A購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058809": {
+        "name": "陽明凱基59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058810": {
+        "name": "台航凱基5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058811": {
+        "name": "奇鋐凱基59購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058812": {
+        "name": "德律凱基5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058813": {
+        "name": "緯創凱基5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058814": {
+        "name": "世芯凱基59購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058815": {
+        "name": "貿聯凱基59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058816": {
+        "name": "貿聯凱基59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058817": {
+        "name": "貿聯凱基59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058818": {
+        "name": "日月光凱基59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058819": {
+        "name": "達明凱基59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058820": {
+        "name": "臻鼎凱基59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058821": {
+        "name": "祥碩凱基59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058822": {
+        "name": "祥碩凱基5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058823": {
+        "name": "聯茂凱基59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058824": {
+        "name": "康舒凱基5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058825": {
+        "name": "啟碁凱基59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058826": {
+        "name": "AES凱基59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058827": {
+        "name": "宇瞻凱基5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058828": {
+        "name": "新興台新59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058829": {
+        "name": "貿聯台新59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058830": {
+        "name": "SGBR2X統一73購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058831": {
+        "name": "台塑統一63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058832": {
+        "name": "南亞統一63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058833": {
+        "name": "台化統一63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058834": {
+        "name": "川湖統一62購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
     "058835": {
         "name": "皇昌統一53購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058836": {
+        "name": "川湖統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058837": {
+        "name": "光寶科統一63購03",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -136574,8 +136949,68 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
+    "058839": {
+        "name": "鴻海統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058840": {
+        "name": "台積電統一6A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
     "058841": {
         "name": "元日2X凱基53購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058842": {
+        "name": "創見統一66購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058843": {
+        "name": "創見統一66購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058844": {
+        "name": "創見統一69購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058845": {
+        "name": "義隆統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058846": {
+        "name": "新興統一63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058847": {
+        "name": "新興統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058848": {
+        "name": "陽明統一61購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058849": {
+        "name": "萬海統一63購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058850": {
+        "name": "德律統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058851": {
+        "name": "文曄統一62購03",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -136584,13 +137019,728 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
+    "058853": {
+        "name": "文曄統一63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058854": {
+        "name": "牧德統一62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058855": {
+        "name": "貿聯統一62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058856": {
+        "name": "神達統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058857": {
+        "name": "新唐統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058858": {
+        "name": "迅得統一63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058859": {
+        "name": "迅得統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058860": {
+        "name": "GIS統一63購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058861": {
+        "name": "GIS統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058862": {
+        "name": "GIS統一73購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058863": {
+        "name": "台塑化統一61購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058864": {
+        "name": "台塑化統一63購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058865": {
+        "name": "台塑化統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058866": {
+        "name": "緯穎統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058867": {
+        "name": "惠特統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058868": {
+        "name": "采鈺統一61購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058869": {
+        "name": "采鈺統一62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058870": {
+        "name": "采鈺統一73購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058871": {
+        "name": "兆聯統一73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058872": {
+        "name": "台灣50兆豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058873": {
+        "name": "光寶科兆豐63購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058874": {
+        "name": "國巨兆豐5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058875": {
+        "name": "奇鋐兆豐5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058876": {
+        "name": "亞光兆豐5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058877": {
+        "name": "台灣50富邦63購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058878": {
+        "name": "臺指反富邦73購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058879": {
+        "name": "華新富邦59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058880": {
+        "name": "上銀富邦63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058881": {
+        "name": "聯電富邦5A購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058882": {
+        "name": "鴻海富邦69購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058883": {
+        "name": "友達富邦59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058884": {
+        "name": "陽明富邦5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058885": {
+        "name": "陽明富邦5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058886": {
+        "name": "貿聯富邦5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058887": {
+        "name": "日月光富邦5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058888": {
+        "name": "緯穎富邦63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058889": {
+        "name": "至上富邦59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058890": {
+        "name": "臺股指富邦63購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058891": {
+        "name": "臺股指富邦66購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058892": {
+        "name": "台灣50元大59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058893": {
+        "name": "台灣50元大5A購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058894": {
+        "name": "光寶科元大59購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058895": {
+        "name": "光寶科元大61購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058896": {
+        "name": "聯電元大61購11",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058897": {
+        "name": "鴻海元大59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058898": {
+        "name": "鴻海元大59購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058899": {
+        "name": "鴻海元大61購09",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058900": {
+        "name": "華泰元大59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058901": {
+        "name": "華泰元大59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058902": {
+        "name": "華泰元大61購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058903": {
+        "name": "台積電元大59購16",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058904": {
+        "name": "台積電元大59購17",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058905": {
+        "name": "台積電元大59購18",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058906": {
+        "name": "台積電元大61購19",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058907": {
+        "name": "建準元大59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058908": {
+        "name": "創見元大59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058909": {
+        "name": "創見元大5A購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058910": {
+        "name": "聯發科元大59購09",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058911": {
+        "name": "聯發科元大61購18",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058912": {
+        "name": "長榮元大59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058913": {
+        "name": "長榮元大5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058914": {
+        "name": "長榮元大5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058915": {
+        "name": "奇鋐元大59購17",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058916": {
+        "name": "奇鋐元大59購18",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058917": {
+        "name": "奇鋐元大59購19",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058918": {
+        "name": "奇鋐元大59購20",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058919": {
+        "name": "奇鋐元大61購09",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
     "058920": {
         "name": "元日2X群益53購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
+    "058921": {
+        "name": "德律元大59購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058922": {
+        "name": "智原元大5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058923": {
+        "name": "牧德元大59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058924": {
+        "name": "牧德元大59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058925": {
+        "name": "貿聯元大59購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058926": {
+        "name": "貿聯元大59購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058927": {
+        "name": "貿聯元大59購09",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058928": {
+        "name": "貿聯元大59購10",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058929": {
+        "name": "貿聯元大59購11",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058930": {
+        "name": "定穎控元大61購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058931": {
+        "name": "臻鼎元大59購09",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058932": {
+        "name": "祥碩元大59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058933": {
+        "name": "聯茂元大59購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058934": {
+        "name": "聯茂元大59購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058935": {
+        "name": "緯穎元大59購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058936": {
+        "name": "緯穎元大61購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058937": {
+        "name": "AES元大59購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058938": {
+        "name": "三集瑞元大59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058939": {
+        "name": "至上元大59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058940": {
+        "name": "勤誠元大59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058941": {
+        "name": "臺股指元大59購27",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058942": {
+        "name": "臺股指元大5A購16",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058943": {
+        "name": "臺股指元大5A購17",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058944": {
+        "name": "臺股指元大63購19",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058945": {
+        "name": "臺股指元大63購20",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058946": {
+        "name": "台灣50元富59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058947": {
+        "name": "台灣50元富59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058948": {
+        "name": "滬深2X元富59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058949": {
+        "name": "SGBR2X元富59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058950": {
+        "name": "SGBR2X元富59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058951": {
+        "name": "SGBR2X元富59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058952": {
+        "name": "上銀元富59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058953": {
+        "name": "聯發科元富59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058954": {
+        "name": "聯發科元富59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058955": {
+        "name": "盟立元富59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058956": {
+        "name": "奇鋐元富59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058957": {
+        "name": "奇鋐元富59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058958": {
+        "name": "奇鋐元富59購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058959": {
+        "name": "奇鋐元富59購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058960": {
+        "name": "嘉澤元富59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058961": {
+        "name": "矽格元富59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058962": {
+        "name": "啟碁元富59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058963": {
+        "name": "兆聯元富59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058964": {
+        "name": "SGBR2X群益59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058965": {
+        "name": "道瓊銀群益5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058967": {
+        "name": "台聚群益5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058968": {
+        "name": "東元群益5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058969": {
+        "name": "華城群益5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
     "058971": {
         "name": "元日2X國票55購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058972": {
+        "name": "長興群益59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058973": {
+        "name": "川湖群益59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058974": {
+        "name": "聯電群益59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058975": {
+        "name": "仁寶群益59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058976": {
+        "name": "國巨群益59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058977": {
+        "name": "智邦群益63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058978": {
+        "name": "毅嘉群益59購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058979": {
+        "name": "建準群益59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058980": {
+        "name": "建準群益5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058981": {
+        "name": "義隆群益5A購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058982": {
+        "name": "大立光群益59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058983": {
+        "name": "奇鋐群益59購11",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058984": {
+        "name": "智原群益59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058985": {
+        "name": "文曄群益59購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058986": {
+        "name": "緯創群益59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058987": {
+        "name": "昇貿群益59購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058988": {
+        "name": "牧德群益59購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058989": {
+        "name": "世芯群益59購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058990": {
+        "name": "貿聯群益59購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058991": {
+        "name": "貿聯群益5A購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058992": {
+        "name": "啟碁群益59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058993": {
+        "name": "緯穎群益59購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058994": {
+        "name": "緯穎群益59購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058995": {
+        "name": "臺股指群益5A購10",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058996": {
+        "name": "臺股指群益5A購11",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058997": {
+        "name": "臺股指群益5A購12",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058998": {
+        "name": "臺股指群益5A購13",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "058999": {
+        "name": "臺股指群益5A購14",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -184326,6 +185476,431 @@
     },
     "705808": {
         "name": "前鼎國泰5A購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705809": {
+        "name": "元太國票5A購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705810": {
+        "name": "岳豐國票5A購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705811": {
+        "name": "長佳智國票5A購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705812": {
+        "name": "前鼎國票61購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705813": {
+        "name": "晟德國票5A購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705814": {
+        "name": "精星國票5A購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705815": {
+        "name": "優群國票59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705816": {
+        "name": "寶雅國票5A購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705817": {
+        "name": "台特化中信59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705818": {
+        "name": "凡甲永豐5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705819": {
+        "name": "台星科永豐5C購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705820": {
+        "name": "宜特永豐5C購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705821": {
+        "name": "信驊永豐5B購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705822": {
+        "name": "前鼎永豐5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705823": {
+        "name": "前鼎永豐5C購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705824": {
+        "name": "能率永豐5C購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705825": {
+        "name": "順達永豐59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705826": {
+        "name": "順達永豐61購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705827": {
+        "name": "良維兆豐5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705828": {
+        "name": "雙鴻兆豐5B購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705829": {
+        "name": "天品元富59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705830": {
+        "name": "台燿元富59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705831": {
+        "name": "弘塑元富59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705832": {
+        "name": "系統電元富59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705833": {
+        "name": "旺矽元富59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705834": {
+        "name": "旺矽元富59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705835": {
+        "name": "旺矽元富59購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705836": {
+        "name": "信驊元富59購04",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705837": {
+        "name": "信驊元富59購05",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705838": {
+        "name": "信驊元富59購06",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705839": {
+        "name": "新應材元富59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705840": {
+        "name": "聖暉*元富59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705841": {
+        "name": "元太元大5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705842": {
+        "name": "世界元大59購06",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705843": {
+        "name": "台特化元大59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705844": {
+        "name": "台特化元大59購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705845": {
+        "name": "信驊元大5C購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705846": {
+        "name": "新應材元大5A購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705847": {
+        "name": "新應材元大61購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705848": {
+        "name": "臺慶科元大59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705849": {
+        "name": "優群元大59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705850": {
+        "name": "環球晶元大5C購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705851": {
+        "name": "雙鴻元大59購08",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705852": {
+        "name": "雙鴻元大59購09",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705853": {
+        "name": "雙鴻元大61購10",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705854": {
+        "name": "台特化統一63購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705855": {
+        "name": "弘塑統一73購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705856": {
+        "name": "印能統一73購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705857": {
+        "name": "沛亨統一73購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705858": {
+        "name": "良維統一73購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705859": {
+        "name": "旺矽統一73購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705860": {
+        "name": "順達統一73購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705861": {
+        "name": "新應材統一73購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705862": {
+        "name": "萬泰科統一62購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705863": {
+        "name": "德微統一73購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705864": {
+        "name": "環球晶統一62購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705865": {
+        "name": "穩得統一73購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705866": {
+        "name": "良維凱基59購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705867": {
+        "name": "旺矽凱基59購04",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705868": {
+        "name": "信驊凱基59購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705869": {
+        "name": "信驊凱基59購04",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705870": {
+        "name": "信驊凱基5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705871": {
+        "name": "信驊凱基61購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705872": {
+        "name": "信驊凱基61購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705873": {
+        "name": "閎康凱基59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705874": {
+        "name": "鈊象凱基61購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705875": {
+        "name": "新應材凱基61購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705876": {
+        "name": "榮剛凱基5A購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705877": {
+        "name": "環球晶凱基61購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705878": {
+        "name": "弘塑富邦5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705879": {
+        "name": "良維富邦5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705880": {
+        "name": "新應材富邦63購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705881": {
+        "name": "雙鴻國泰5A購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705882": {
+        "name": "台特化群益59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705883": {
+        "name": "弘塑群益59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705884": {
+        "name": "旺矽群益59購05",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705885": {
+        "name": "旺矽群益59購06",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705886": {
+        "name": "鈊象群益59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705887": {
+        "name": "新應材群益5A購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705888": {
+        "name": "漢科群益59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705889": {
+        "name": "精材群益59購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705890": {
+        "name": "精材群益59購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705891": {
+        "name": "雙鴻群益59購05",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705892": {
+        "name": "雙鴻群益59購06",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "705893": {
+        "name": "鑫聯群益59購02",
         "prefix": "TPEX",
         "market": "TPEX"
     },
