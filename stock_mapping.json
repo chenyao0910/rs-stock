@@ -8459,28 +8459,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "034123": {
-        "name": "鈺邦元富55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034124": {
-        "name": "鈺邦元富55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034125": {
-        "name": "鈺邦元富55購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "034132": {
         "name": "台灣50凱基57購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034161": {
-        "name": "AES凱基55購02",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -8499,41 +8479,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "034168": {
-        "name": "滬深2X富邦55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034169": {
-        "name": "香港2X富邦55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034174": {
-        "name": "金像電富邦55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034176": {
-        "name": "漢唐富邦55購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034181": {
-        "name": "裕民富邦55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034188": {
-        "name": "臻鼎富邦55購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034190": {
-        "name": "祥碩富邦55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "034191": {
         "name": "臺指反國票56購01",
         "prefix": "TWSE",
@@ -8541,21 +8486,6 @@
     },
     "034201": {
         "name": "景碩國票56購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034210": {
-        "name": "臻鼎國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034213": {
-        "name": "眾達國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034214": {
-        "name": "全訊國票55購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -8586,11 +8516,6 @@
     },
     "034224": {
         "name": "滬深2X元大59購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034226": {
-        "name": "中502X元大55購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -8661,11 +8586,6 @@
     },
     "034283": {
         "name": "昇貿群益58購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "034285": {
-        "name": "創意群益55購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -19649,11 +19569,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042040": {
-        "name": "SP黃豆永豐55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042041": {
         "name": "元金2X永豐57購01",
         "prefix": "TWSE",
@@ -19664,28 +19579,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042043": {
-        "name": "國巨永豐55購04",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042044": {
-        "name": "立隆電永豐55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042048": {
-        "name": "美利達永豐55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042051": {
         "name": "元日2X元富5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042055": {
-        "name": "國喬元富55購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -19699,98 +19594,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042069": {
-        "name": "禾伸堂元富55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042074": {
-        "name": "元債2X國泰55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042075": {
-        "name": "東元國泰55購04",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042076": {
-        "name": "光寶科國泰55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042077": {
-        "name": "鴻海國泰55購06",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042078": {
-        "name": "國巨國泰55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042079": {
-        "name": "智邦國泰55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042080": {
-        "name": "台光電國泰55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042081": {
-        "name": "聯發科國泰55購04",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042082": {
-        "name": "聯發科國泰55購05",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042083": {
-        "name": "立隆電國泰55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042084": {
-        "name": "世芯國泰55購05",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042085": {
-        "name": "精成科國泰55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042086": {
-        "name": "康舒國泰55購05",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042087": {
-        "name": "愛普國泰55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042088": {
-        "name": "緯穎國泰55購04",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042089": {
-        "name": "緯穎國泰55購05",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042090": {
         "name": "金寶兆豐56購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042091": {
-        "name": "華通兆豐55購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -19801,11 +19606,6 @@
     },
     "042093": {
         "name": "世芯兆豐56購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042094": {
-        "name": "愛普兆豐55購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -19824,21 +19624,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042098": {
-        "name": "華新富邦55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042099": {
-        "name": "國巨富邦55購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042100": {
-        "name": "興勤富邦55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042101": {
         "name": "聯發科富邦56購01",
         "prefix": "TWSE",
@@ -19849,33 +19634,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042103": {
-        "name": "力積電富邦55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042106": {
-        "name": "元黃金國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042108": {
-        "name": "鴻海國票55購06",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042111": {
-        "name": "國巨國票55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042112": {
         "name": "國巨國票56購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042113": {
-        "name": "致茂國票55購03",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -19884,23 +19644,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042118": {
-        "name": "聯發科國票55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042119": {
         "name": "聯發科國票56購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042120": {
-        "name": "立隆電國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042122": {
-        "name": "大毅國票55購02",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -19909,48 +19654,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042124": {
-        "name": "八方國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042125": {
-        "name": "聯詠國票55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042126": {
-        "name": "華晶科國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042128": {
-        "name": "日電貿國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042129": {
-        "name": "聯鈞國票55購04",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042130": {
-        "name": "華擎國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042132": {
-        "name": "貿聯國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042133": {
         "name": "日月光國票56購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042134": {
-        "name": "和碩國票55購02",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -19966,16 +19671,6 @@
     },
     "042138": {
         "name": "台表科國票5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042139": {
-        "name": "矽力國票55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042140": {
-        "name": "三集瑞國票55購04",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -19999,11 +19694,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042152": {
-        "name": "鴻海凱基55購24",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042159": {
         "name": "京元電凱基56購02",
         "prefix": "TWSE",
@@ -20019,16 +19709,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042168": {
-        "name": "材料凱基55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042169": {
-        "name": "祥碩凱基55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042170": {
         "name": "康舒凱基56購01",
         "prefix": "TWSE",
@@ -20036,16 +19716,6 @@
     },
     "042172": {
         "name": "至上凱基56購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042175": {
-        "name": "元黃金元大55購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042176": {
-        "name": "SGBR2X元大55購02",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -20084,11 +19754,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042230": {
-        "name": "臺股指元大55購22",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042231": {
         "name": "臺股指元大59購11",
         "prefix": "TWSE",
@@ -20099,23 +19764,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042235": {
-        "name": "光寶科群益55購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042238": {
-        "name": "國巨群益55購04",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042239": {
         "name": "國巨群益56購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042245": {
-        "name": "華新科群益55購04",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -137714,8 +137364,748 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
+    "069426": {
+        "name": "新纖永豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069427": {
+        "name": "士電永豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069428": {
+        "name": "上銀永豐5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069429": {
+        "name": "光寶科永豐5C購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069430": {
+        "name": "聯電永豐5B購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069431": {
+        "name": "鴻海永豐6B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069432": {
+        "name": "鴻海永豐75購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069433": {
+        "name": "台積電永豐5C購25",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069434": {
+        "name": "華邦電永豐75購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069435": {
+        "name": "菱生永豐68購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069436": {
+        "name": "微星永豐5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069437": {
+        "name": "瑞昱永豐5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069438": {
+        "name": "萬海永豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069439": {
+        "name": "富邦金永豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069440": {
+        "name": "國泰金永豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069441": {
+        "name": "嘉澤永豐5C購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069442": {
+        "name": "jpp永豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069443": {
+        "name": "瀚宇博永豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069444": {
+        "name": "亞翔永豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069445": {
+        "name": "康舒永豐65購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069446": {
+        "name": "南茂永豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069447": {
+        "name": "中砂兆豐63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069448": {
+        "name": "力積電兆豐5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069449": {
+        "name": "上銀富邦62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069450": {
+        "name": "聯電富邦63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069451": {
+        "name": "聯電富邦75購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069452": {
+        "name": "金寶富邦5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069453": {
+        "name": "華邦電富邦5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069454": {
+        "name": "英業達富邦5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069455": {
+        "name": "技嘉富邦5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069456": {
+        "name": "友達富邦5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069457": {
+        "name": "國泰金富邦62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069458": {
+        "name": "凱基金富邦62購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069459": {
+        "name": "第一金富邦5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069460": {
+        "name": "昇貿富邦63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069461": {
+        "name": "日月光富邦5B購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069462": {
+        "name": "彩晶富邦5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069463": {
+        "name": "佳必琪富邦5C購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069464": {
+        "name": "力成富邦5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069465": {
+        "name": "勤誠富邦5B購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069466": {
+        "name": "宏碁國泰5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069467": {
+        "name": "矽統國泰5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069468": {
+        "name": "研華國泰5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069469": {
+        "name": "奇鋐國泰63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069470": {
+        "name": "昇貿國泰63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069471": {
+        "name": "新日興國泰5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069472": {
+        "name": "祥碩國泰5C購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069473": {
+        "name": "祥碩國泰5C購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069474": {
+        "name": "彩晶國泰5C購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069475": {
+        "name": "力成國泰5C購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069476": {
+        "name": "啟碁國泰5C購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069477": {
+        "name": "台灣50凱基65購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069478": {
+        "name": "T50正2凱基5C購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069479": {
+        "name": "南亞凱基5B購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069480": {
+        "name": "中興電凱基5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069481": {
+        "name": "華城凱基5B購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069482": {
+        "name": "聯電凱基65購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069483": {
+        "name": "鴻海凱基5B購10",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069484": {
+        "name": "華邦電凱基5B購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069485": {
+        "name": "菱生凱基5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069486": {
+        "name": "菱生凱基5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069487": {
+        "name": "菱生凱基5B購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069488": {
+        "name": "漢唐凱基5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069489": {
+        "name": "立隆電凱基5B購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069490": {
+        "name": "立隆電凱基5C購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069491": {
+        "name": "立隆電凱基63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069492": {
+        "name": "緯創凱基5B購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069493": {
+        "name": "上品凱基5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069494": {
+        "name": "乙盛凱基5C購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069495": {
+        "name": "jpp凱基5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069496": {
+        "name": "力成凱基5B購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069497": {
+        "name": "力成凱基5B購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069498": {
+        "name": "力成凱基5B購09",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069499": {
+        "name": "華東凱基5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069500": {
+        "name": "南茂凱基5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069501": {
+        "name": "泰金寶凱基5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069502": {
+        "name": "T50正2台新5B購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069503": {
+        "name": "光寶科台新5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069504": {
+        "name": "華邦電台新5B購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069505": {
+        "name": "華邦電台新5B購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
     "069506": {
         "name": "元債2X永豐58購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069507": {
+        "name": "英業達台新5B購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069508": {
+        "name": "漢唐台新5B購11",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069509": {
+        "name": "南亞科台新5B購11",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069510": {
+        "name": "立隆電台新5B購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069511": {
+        "name": "立隆電台新65購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069512": {
+        "name": "慧洋台新5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069513": {
+        "name": "力成台新5B購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069514": {
+        "name": "力成台新5B購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069515": {
+        "name": "騰輝電台新5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069516": {
+        "name": "惠特台新63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069517": {
+        "name": "力積電台新5B購12",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069518": {
+        "name": "ITH台新5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069519": {
+        "name": "華東台新5B購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069520": {
+        "name": "華東台新5B購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069521": {
+        "name": "華東台新5B購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069522": {
+        "name": "A50正2元大5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069523": {
+        "name": "群臺2X元大5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069524": {
+        "name": "華城元大62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069525": {
+        "name": "中砂元大5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069526": {
+        "name": "光寶科元大5B購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069527": {
+        "name": "光寶科元大5B購09",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069528": {
+        "name": "聯電元大65購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069529": {
+        "name": "金寶元大5B購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069530": {
+        "name": "金寶元大5B購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069531": {
+        "name": "金寶元大5B購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069532": {
+        "name": "鴻海元大5B購14",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069533": {
+        "name": "台積電元大5B購32",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069534": {
+        "name": "華邦電元大62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069535": {
+        "name": "華邦電元大63購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069536": {
+        "name": "菱生元大5B購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069537": {
+        "name": "菱生元大5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069538": {
+        "name": "南亞科元大5B購14",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069539": {
+        "name": "南亞科元大65購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069540": {
+        "name": "超豐元大5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069541": {
+        "name": "京元電元大5C購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069542": {
+        "name": "京元電元大62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069543": {
+        "name": "立隆電元大5B購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069544": {
+        "name": "立隆電元大5B購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069545": {
+        "name": "立隆電元大63購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069546": {
+        "name": "揚博元大5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069547": {
+        "name": "奇鋐元大5C購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069548": {
+        "name": "奇鋐元大62購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069549": {
+        "name": "日月光元大5B購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069550": {
+        "name": "日月光元大63購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069551": {
+        "name": "眾達元大5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069552": {
+        "name": "彩晶元大5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069553": {
+        "name": "彩晶元大5B購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069554": {
+        "name": "力成元大5B購06",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069555": {
+        "name": "力成元大5B購07",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069556": {
+        "name": "力成元大5B購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069557": {
+        "name": "力成元大5B購09",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069558": {
+        "name": "力成元大5C購03",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069559": {
+        "name": "力成元大62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069560": {
+        "name": "力成元大63購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069561": {
+        "name": "啟碁元大5B購14",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069562": {
+        "name": "啟碁元大5B購15",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069563": {
+        "name": "啟碁元大5B購16",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069564": {
+        "name": "緯穎元大5C購08",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069565": {
+        "name": "緯穎元大62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069566": {
+        "name": "惠特元大5B購05",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069567": {
+        "name": "聯電群益5B購10",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069568": {
+        "name": "仁寶群益5B購04",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069569": {
+        "name": "華邦電群益5B購10",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069570": {
+        "name": "所羅門群益5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069571": {
+        "name": "京元電群益63購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069572": {
+        "name": "義隆群益5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069573": {
+        "name": "亞光群益5B購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069575": {
+        "name": "jpp群益5B購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -137726,6 +138116,16 @@
     },
     "069577": {
         "name": "台積電統一5A購02",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069578": {
+        "name": "力積電群益62購01",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "069579": {
+        "name": "臺股指群益5B購39",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -139239,53 +139639,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "082225": {
-        "name": "晟銘電元富55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082228": {
-        "name": "欣興元富55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082229": {
-        "name": "貿聯元富55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082231": {
-        "name": "香港2X國票55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082258": {
-        "name": "欣興兆豐55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "082262": {
         "name": "國企2X群益56購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082264": {
-        "name": "智邦群益55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082273": {
-        "name": "新興統一55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082274": {
-        "name": "慧洋統一55購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082275": {
-        "name": "佳必琪統一55購02",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -139294,23 +139649,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "082277": {
-        "name": "泓德統一55購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "082278": {
         "name": "昇陽半統一58購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082279": {
-        "name": "勤誠統一55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "082293": {
-        "name": "緯穎第一55購05",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -143399,11 +143739,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "089466": {
-        "name": "川湖第一55購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "089470": {
         "name": "士電統一59購01",
         "prefix": "TWSE",
@@ -143861,6 +144196,11 @@
     },
     "7823": {
         "name": "奧義賽博-KY創",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "7827": {
+        "name": "漢康-KY創",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -146439,11 +146779,6 @@
         "prefix": "TPEX",
         "market": "TPEX"
     },
-    "700982": {
-        "name": "台半兆豐55購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
     "700983": {
         "name": "威剛兆豐5A購01",
         "prefix": "TPEX",
@@ -146459,43 +146794,13 @@
         "prefix": "TPEX",
         "market": "TPEX"
     },
-    "700994": {
-        "name": "昇達科國泰55購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "700995": {
-        "name": "訊聯國泰55購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "700996": {
-        "name": "臺慶科國泰55購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
     "700998": {
         "name": "宜鼎元大56購02",
         "prefix": "TPEX",
         "market": "TPEX"
     },
-    "701004": {
-        "name": "弘塑國票55購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
     "701005": {
         "name": "信昌電國票58購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "701006": {
-        "name": "凱崴國票55購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "701007": {
-        "name": "綠界*國票55購01",
         "prefix": "TPEX",
         "market": "TPEX"
     },
@@ -146509,11 +146814,6 @@
         "prefix": "TPEX",
         "market": "TPEX"
     },
-    "701015": {
-        "name": "晶焱永豐55購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
     "701016": {
         "name": "雍智永豐58購01",
         "prefix": "TPEX",
@@ -146521,16 +146821,6 @@
     },
     "701017": {
         "name": "雙鴻永豐56購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "701018": {
-        "name": "凱崴群益55購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "701019": {
-        "name": "營邦群益55購01",
         "prefix": "TPEX",
         "market": "TPEX"
     },
@@ -183979,6 +184269,231 @@
         "prefix": "TPEX",
         "market": "TPEX"
     },
+    "709362": {
+        "name": "台半凱基5B購04",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709363": {
+        "name": "台特化凱基5B購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709364": {
+        "name": "宏捷科凱基5B購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709365": {
+        "name": "長科*凱基5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709366": {
+        "name": "富喬凱基62購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709367": {
+        "name": "萊德光凱基5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709368": {
+        "name": "萊德光凱基5B購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709369": {
+        "name": "順達凱基5B購05",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709370": {
+        "name": "勤凱凱基5B購05",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709371": {
+        "name": "群翊凱基62購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709372": {
+        "name": "聖暉*凱基5B購06",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709373": {
+        "name": "漢科凱基5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709374": {
+        "name": "廣穎凱基5B購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709375": {
+        "name": "雙鴻凱基5B購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709376": {
+        "name": "系統電台新5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709377": {
+        "name": "華容台新5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709378": {
+        "name": "鈺太台新5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709379": {
+        "name": "鈺太台新5B購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709380": {
+        "name": "鈺太台新5B購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709381": {
+        "name": "精材台新5B購07",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709382": {
+        "name": "廣穎台新5B購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709383": {
+        "name": "點序台新5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709384": {
+        "name": "點序台新62購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709385": {
+        "name": "佳邦元大5B購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709386": {
+        "name": "長科*元大5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709387": {
+        "name": "順達元大5B購08",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709388": {
+        "name": "順達元大62購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709389": {
+        "name": "群聯元大5B購19",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709390": {
+        "name": "群聯元大63購04",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709391": {
+        "name": "聖暉*元大5B購06",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709392": {
+        "name": "佳邦富邦5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709393": {
+        "name": "精材富邦5B購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709394": {
+        "name": "台半群益62購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709395": {
+        "name": "聖暉*群益5B購03",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709396": {
+        "name": "優群群益62購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709397": {
+        "name": "佳邦國泰5C購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709398": {
+        "name": "威聯通國泰5C購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709399": {
+        "name": "勤凱國泰5C購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709400": {
+        "name": "台半永豐63購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709401": {
+        "name": "台特化永豐63購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709402": {
+        "name": "佳邦永豐5C購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709403": {
+        "name": "萊德光永豐5C購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709404": {
+        "name": "勤凱永豐5C購04",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709405": {
+        "name": "群聯永豐5B購01",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
+    "709406": {
+        "name": "鏵友益永豐5C購02",
+        "prefix": "TPEX",
+        "market": "TPEX"
+    },
     "719715": {
         "name": "神盾統一56購01",
         "prefix": "TPEX",
@@ -185461,41 +185976,6 @@
     },
     "733850": {
         "name": "均華統一57購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "733867": {
-        "name": "台特化凱基55購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "733884": {
-        "name": "振曜統一55購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "733885": {
-        "name": "泰茂統一55購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "733886": {
-        "name": "神盾統一55購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "733887": {
-        "name": "精測統一55購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "733888": {
-        "name": "廣運統一55購04",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "733889": {
-        "name": "雙鴻統一55購02",
         "prefix": "TPEX",
         "market": "TPEX"
     },
@@ -188611,11 +189091,6 @@
     },
     "738299": {
         "name": "元債20元富58購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "738320": {
-        "name": "元太凱基55購02",
         "prefix": "TPEX",
         "market": "TPEX"
     },
@@ -192384,11 +192859,6 @@
         "prefix": "TPEX",
         "market": "TPEX"
     },
-    "4987": {
-        "name": "科誠",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
     "4991": {
         "name": "環宇-KY",
         "prefix": "TPEX",
@@ -195003,5 +195473,1750 @@
         "name": "有益",
         "prefix": "TPEX",
         "market": "TPEX"
+    },
+    "1260": {
+        "name": "富味鄉",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "1269": {
+        "name": "乾杯",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "1271": {
+        "name": "晨暉生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "1293": {
+        "name": "利統",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "1343": {
+        "name": "旭東環保",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "1480": {
+        "name": "東盟開發",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "1594": {
+        "name": "日高",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "1780": {
+        "name": "立弘",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2071": {
+        "name": "震南鐵",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2237": {
+        "name": "華德動能",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2245": {
+        "name": "詠勝昌*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2249": {
+        "name": "湧盛",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2252": {
+        "name": "為昇科",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2255": {
+        "name": "凱銳光電",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2256": {
+        "name": "歐特明",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2644": {
+        "name": "中信造船",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2733": {
+        "name": "維格餅家",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2741": {
+        "name": "老四川",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2758": {
+        "name": "路易莎咖啡",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2760": {
+        "name": "巨宇翔",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2761": {
+        "name": "橘焱胡同",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2938": {
+        "name": "床的世界",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2940": {
+        "name": "歐都納",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "2942": {
+        "name": "京站",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3097": {
+        "name": "拍檔",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3117": {
+        "name": "年程",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3184": {
+        "name": "微邦",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3473": {
+        "name": "智通聯網",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3585": {
+        "name": "聯致",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3595": {
+        "name": "山太士",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3603": {
+        "name": "建祥國際",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3633": {
+        "name": "云光",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3659": {
+        "name": "百辰",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "3678": {
+        "name": "聯享",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4115": {
+        "name": "善德生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4117": {
+        "name": "普生",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4150": {
+        "name": "優你康",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4170": {
+        "name": "鑫品生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4172": {
+        "name": "因華",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4186": {
+        "name": "尖端醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4194": {
+        "name": "禾生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4197": {
+        "name": "暐世",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4431": {
+        "name": "敏成健康",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4537": {
+        "name": "旭東",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4544": {
+        "name": "春日",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4546": {
+        "name": "長亨",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4553": {
+        "name": "盛復",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4559": {
+        "name": "久裕興",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4565": {
+        "name": "宏偉",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4570": {
+        "name": "傑生",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4573": {
+        "name": "高明鐵",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4575": {
+        "name": "銓寶",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4587": {
+        "name": "寶元數控",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4589": {
+        "name": "碩陽電機",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4724": {
+        "name": "宣捷幹細胞",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4732": {
+        "name": "彥臣",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4738": {
+        "name": "大同精化",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4765": {
+        "name": "磐采",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4925": {
+        "name": "智微",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "4980": {
+        "name": "佐臻",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5240": {
+        "name": "建騰",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5246": {
+        "name": "勵威",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5248": {
+        "name": "景傳",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5254": {
+        "name": "欣訊科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5262": {
+        "name": "立達",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5267": {
+        "name": "龍翩",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5271": {
+        "name": "紘通",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5297": {
+        "name": "廣化",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5859": {
+        "name": "遠壽",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "5863": {
+        "name": "瑞興銀",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6027": {
+        "name": "德信",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6035": {
+        "name": "悠遊卡",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6407": {
+        "name": "相互",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6428": {
+        "name": "淘米",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6434": {
+        "name": "達輝光電",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6467": {
+        "name": "泰合",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6473": {
+        "name": "美賣*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6483": {
+        "name": "原創生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6493": {
+        "name": "雷虎生",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6518": {
+        "name": "康科特",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6536": {
+        "name": "碩豐",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6539": {
+        "name": "麗彤",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6543": {
+        "name": "普惠醫工",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6549": {
+        "name": "景凱",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6555": {
+        "name": "榮炭",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6559": {
+        "name": "研晶",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6563": {
+        "name": "映智",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6564": {
+        "name": "安特羅",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6565": {
+        "name": "物聯",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6572": {
+        "name": "博錸",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6580": {
+        "name": "台睿",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6583": {
+        "name": "友松",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6586": {
+        "name": "醣基",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6595": {
+        "name": "光禹國際",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6599": {
+        "name": "普達系統",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6604": {
+        "name": "儒億",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6610": {
+        "name": "安成生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6618": {
+        "name": "永虹先進",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6621": {
+        "name": "華宇藥",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6622": {
+        "name": "百聿數碼",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6634": {
+        "name": "欣耀",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6638": {
+        "name": "沅聖",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6639": {
+        "name": "源大環能",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6648": {
+        "name": "斯其大",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6650": {
+        "name": "帝圖",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6659": {
+        "name": "天明製藥",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6665": {
+        "name": "康聯生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6673": {
+        "name": "和詮",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6676": {
+        "name": "祥翊",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6677": {
+        "name": "瑩碩生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6682": {
+        "name": "華旭先進",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6696": {
+        "name": "仁新",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6704": {
+        "name": "國璽幹細胞",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6705": {
+        "name": "振躍精密",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6707": {
+        "name": "富基電通",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6709": {
+        "name": "昱厚生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6723": {
+        "name": "傑智環境",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6729": {
+        "name": "機光科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6734": {
+        "name": "安盛生",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6737": {
+        "name": "秀育",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6738": {
+        "name": "鼎恒",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6744": {
+        "name": "豐技生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6748": {
+        "name": "亞果生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6750": {
+        "name": "泰創工程",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6755": {
+        "name": "連鋐科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6758": {
+        "name": "冠亞",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6775": {
+        "name": "穎台科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6780": {
+        "name": "學習王",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6784": {
+        "name": "天凱科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6786": {
+        "name": "芯測",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6787": {
+        "name": "晶瑞光",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6793": {
+        "name": "天力離岸",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6797": {
+        "name": "圓點奈米",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6798": {
+        "name": "展逸",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6808": {
+        "name": "三鼎生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6810": {
+        "name": "新穎生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6812": {
+        "name": "梭特",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6814": {
+        "name": "路迦生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6815": {
+        "name": "晶鑽生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6816": {
+        "name": "捷智商訊",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6817": {
+        "name": "溫士頓",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6818": {
+        "name": "連騰",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6819": {
+        "name": "眾智",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6820": {
+        "name": "連訊",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6825": {
+        "name": "和暢科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6826": {
+        "name": "和淞",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6827": {
+        "name": "巨生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6832": {
+        "name": "金鼎科",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6833": {
+        "name": "太康精密",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6839": {
+        "name": "開陽能源",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6842": {
+        "name": "瑞宇",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6847": {
+        "name": "普瑞博",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6848": {
+        "name": "拉法醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6849": {
+        "name": "奇鼎科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6850": {
+        "name": "光鼎生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6857": {
+        "name": "宏碁智醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6858": {
+        "name": "愛比科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6864": {
+        "name": "元樟生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6867": {
+        "name": "坦德科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6868": {
+        "name": "采威國際",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6876": {
+        "name": "朗齊生醫*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6878": {
+        "name": "歐付寶",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6879": {
+        "name": "大江基因",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6882": {
+        "name": "甲尚",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6883": {
+        "name": "微電能源",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6886": {
+        "name": "遠東生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6891": {
+        "name": "樂迦再生",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6892": {
+        "name": "台寶生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6898": {
+        "name": "程曦資訊",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6911": {
+        "name": "群運",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6912": {
+        "name": "益鈞環科*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6915": {
+        "name": "美強光",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6917": {
+        "name": "竟天",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6920": {
+        "name": "恆勁科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6926": {
+        "name": "聖安生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6927": {
+        "name": "聯合聚晶",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6932": {
+        "name": "水星生醫*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6935": {
+        "name": "王子製藥",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6938": {
+        "name": "藍新資訊",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6939": {
+        "name": "啟弘生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6940": {
+        "name": "格斯科技*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6945": {
+        "name": "圓祥生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6946": {
+        "name": "三地能源",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6947": {
+        "name": "台鎔科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6959": {
+        "name": "兆捷科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6963": {
+        "name": "品元",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6972": {
+        "name": "博瑞達應材",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6973": {
+        "name": "永立榮",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6976": {
+        "name": "育世博-KY",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6977": {
+        "name": "聯純",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6979": {
+        "name": "勝釩",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6980": {
+        "name": "鐳洋科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6984": {
+        "name": "ACPAY",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6986": {
+        "name": "和迅",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6987": {
+        "name": "寶晶能源*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6990": {
+        "name": "華鉬",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6995": {
+        "name": "野獸國",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6999": {
+        "name": "瀚醫生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7419": {
+        "name": "達勝",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7427": {
+        "name": "華上生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7443": {
+        "name": "凡事康",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7455": {
+        "name": "樺緯物聯",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7507": {
+        "name": "環拓科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7516": {
+        "name": "清淨海",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7530": {
+        "name": "鋒魁科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7551": {
+        "name": "知識科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7558": {
+        "name": "群利",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7561": {
+        "name": "光晟生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7562": {
+        "name": "博來科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7566": {
+        "name": "亞果遊艇",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7575": {
+        "name": "安美得",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7578": {
+        "name": "利百景",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7583": {
+        "name": "國際海洋",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7590": {
+        "name": "怡和國際",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7595": {
+        "name": "世基生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7607": {
+        "name": "通用幹細胞*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7669": {
+        "name": "碩正科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7689": {
+        "name": "大鵬科CLMX",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7702": {
+        "name": "前端風電",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7706": {
+        "name": "宏碁創達",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7707": {
+        "name": "益芯科",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7710": {
+        "name": "東擎科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7719": {
+        "name": "碳基",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7724": {
+        "name": "諾亞克",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7725": {
+        "name": "列特博",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7726": {
+        "name": "暄達",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7729": {
+        "name": "仲恩生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7731": {
+        "name": "火星生技*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7735": {
+        "name": "台智雲",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7737": {
+        "name": "凱鈿",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7742": {
+        "name": "天弘化",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7745": {
+        "name": "紅陽",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7748": {
+        "name": "鑫囍創業",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7752": {
+        "name": "世紀樺欣",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7754": {
+        "name": "安基生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7756": {
+        "name": "多那之",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7758": {
+        "name": "睿騰能源",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7759": {
+        "name": "視航生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7761": {
+        "name": "三大未來",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7762": {
+        "name": "吉晟生",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7763": {
+        "name": "崇舜",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7764": {
+        "name": "聖州",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7771": {
+        "name": "綠基",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7773": {
+        "name": "富禾生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7776": {
+        "name": "奧孟亞",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7779": {
+        "name": "鍇睿國際",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7781": {
+        "name": "昕力資*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7783": {
+        "name": "佳運",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7784": {
+        "name": "安邦生技*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7785": {
+        "name": "北祥科服",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7789": {
+        "name": "開展",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7790": {
+        "name": "思必瑞特",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7796": {
+        "name": "擷發科",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7797": {
+        "name": "Q",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7798": {
+        "name": "將捷",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7801": {
+        "name": "華芸科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7806": {
+        "name": "精華生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7808": {
+        "name": "訊聯智藥",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7812": {
+        "name": "稜研科技*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7813": {
+        "name": "宇辰系統",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7814": {
+        "name": "海昌生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7815": {
+        "name": "新特",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7816": {
+        "name": "來穎",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7824": {
+        "name": "智寶",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7825": {
+        "name": "和亞智慧",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7826": {
+        "name": "極風雲創",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7829": {
+        "name": "思捷優達-KY",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7831": {
+        "name": "捷博",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7832": {
+        "name": "智新生技*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7833": {
+        "name": "綠岩能源",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7834": {
+        "name": "來毅數位",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7836": {
+        "name": "智生活",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7837": {
+        "name": "啟新生",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7839": {
+        "name": "達人網",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7840": {
+        "name": "祥圃",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7841": {
+        "name": "經貿聯網",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7843": {
+        "name": "英柏得",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7846": {
+        "name": "德揚",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7847": {
+        "name": "豊漁",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7848": {
+        "name": "騏億鑫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7849": {
+        "name": "旭誼",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7850": {
+        "name": "寶泰生醫",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7851": {
+        "name": "慧康生技*-KY",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7853": {
+        "name": "政美應用",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7854": {
+        "name": "佐茂",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7855": {
+        "name": "和運租車",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7856": {
+        "name": "漢測",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7857": {
+        "name": "合水先進",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7858": {
+        "name": "芝普",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7860": {
+        "name": "得生製藥",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7861": {
+        "name": "貝爾威勒",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7862": {
+        "name": "聚泰",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7863": {
+        "name": "中科物流",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7865": {
+        "name": "金聯成",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7866": {
+        "name": "丹立",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7867": {
+        "name": "特力屋",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7868": {
+        "name": "聖育",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7869": {
+        "name": "宏于電機",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7870": {
+        "name": "聯剛科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7871": {
+        "name": "安立璽榮-KY",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7872": {
+        "name": "登豐",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7873": {
+        "name": "瑞峰",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7875": {
+        "name": "安圖斯",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7876": {
+        "name": "鼎晉生技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7877": {
+        "name": "海利普",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7878": {
+        "name": "藥祇",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7879": {
+        "name": "益材科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7880": {
+        "name": "聖凰",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7881": {
+        "name": "科明",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7882": {
+        "name": "倍利創投",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7883": {
+        "name": "饗賓",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7885": {
+        "name": "宏羚",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7886": {
+        "name": "科建",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7887": {
+        "name": "宇川精材",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7888": {
+        "name": "麗寶新藥",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7889": {
+        "name": "騰勢",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7890": {
+        "name": "明曜科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7891": {
+        "name": "博研醫藥",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7892": {
+        "name": "元鈦科",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7893": {
+        "name": "睿信",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7895": {
+        "name": "元進莊",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7896": {
+        "name": "喬越",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7897": {
+        "name": "禾迅綠電",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7898": {
+        "name": "乾瞻",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7899": {
+        "name": "景美",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7901": {
+        "name": "大大寬頻",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7902": {
+        "name": "宇越生醫*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7904": {
+        "name": "任開數位",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7907": {
+        "name": "錸恩帕斯",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7909": {
+        "name": "鈺祥",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7911": {
+        "name": "阿波羅電力",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7912": {
+        "name": "新聿科",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7913": {
+        "name": "通寶半導體",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7915": {
+        "name": "廌家",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7918": {
+        "name": "創鉅材料",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7919": {
+        "name": "禾蒼",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7920": {
+        "name": "瀚陽*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7921": {
+        "name": "台普威",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7922": {
+        "name": "源點*",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "8058": {
+        "name": "耐特",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "8098": {
+        "name": "慶康科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "8119": {
+        "name": "公信",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "8298": {
+        "name": "威睿",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "8329": {
+        "name": "台視",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "8345": {
+        "name": "超秦",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "8359": {
+        "name": "錢櫃",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "8458": {
+        "name": "影一",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "8999": {
+        "name": "台灣積層",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "9957": {
+        "name": "燁聯",
+        "prefix": "TPEX",
+        "market": "EMERGING"
     }
 }
