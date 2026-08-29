@@ -209195,7 +209195,7 @@
         "market": "TPEX"
     },
     "4747": {
-        "name": "強生",
+        "name": "強生*",
         "prefix": "TPEX",
         "market": "TPEX"
     },
@@ -212525,7 +212525,7 @@
         "market": "EMERGING"
     },
     "6696": {
-        "name": "仁新",
+        "name": "仁新*",
         "prefix": "TPEX",
         "market": "EMERGING"
     },
@@ -212874,6 +212874,11 @@
         "prefix": "TPEX",
         "market": "EMERGING"
     },
+    "6950": {
+        "name": "科科科技-KY",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
     "6959": {
         "name": "兆捷科技",
         "prefix": "TPEX",
@@ -213046,6 +213051,11 @@
     },
     "7669": {
         "name": "碩正科技",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "7686": {
+        "name": "捷立康",
         "prefix": "TPEX",
         "market": "EMERGING"
     },
