@@ -1,3 +1,5 @@
+![Taiwan Stock RS Rank Utility](banner.svg)
+
 # Taiwan Stock RS Rank Utility
 
 這個專案提供了一個小指令腳本，自動獲取 MoneyDJ 的 RS Rank（相對強度）篩選後的股票名單，並根據內建的對照表自動加上市場前綴（TWSE: 或 TPEX:）。

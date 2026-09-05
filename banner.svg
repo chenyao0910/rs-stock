@@ -1,0 +1,38 @@
+<svg width="960" height="220" viewBox="0 0 960 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="100%" stop-color="#ffd93d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="220" rx="16" fill="url(#bg)"/>
+
+  <!-- rising bar chart motif -->
+  <g transform="translate(60,150)">
+    <rect x="0"  y="-30" width="26" height="30" rx="3" fill="url(#bar)" opacity="0.55"/>
+    <rect x="34" y="-55" width="26" height="55" rx="3" fill="url(#bar)" opacity="0.7"/>
+    <rect x="68" y="-40" width="26" height="40" rx="3" fill="url(#bar)" opacity="0.6"/>
+    <rect x="102" y="-80" width="26" height="80" rx="3" fill="url(#bar)" opacity="0.85"/>
+    <rect x="136" y="-100" width="26" height="100" rx="3" fill="url(#bar)"/>
+  </g>
+
+  <!-- trend line -->
+  <polyline points="60,120 86,95 120,110 154,70 196,50"
+            fill="none" stroke="#ffd93d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <circle cx="196" cy="50" r="6" fill="#ffd93d"/>
+
+  <text x="240" y="100" font-family="'Helvetica Neue', Arial, 'PingFang TC', 'Microsoft JhengHei', sans-serif"
+        font-size="40" font-weight="700" fill="#ffffff">
+    Taiwan Stock RS Rank Utility
+  </text>
+  <text x="240" y="140" font-family="'Helvetica Neue', Arial, 'PingFang TC', 'Microsoft JhengHei', sans-serif"
+        font-size="20" fill="#a9c4d4">
+    自動化 RS Rank 選股 · TWSE / TPEX 市場標記 · 每日更新
+  </text>
+</svg>
