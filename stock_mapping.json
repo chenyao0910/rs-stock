@@ -1160,7 +1160,7 @@
         "market": "TWSE"
     },
     "2072": {
-        "name": "世紀風電",
+        "name": "世紀能源",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -4701,6 +4701,11 @@
     },
     "7705": {
         "name": "三商餐飲",
+        "prefix": "TWSE",
+        "market": "TWSE"
+    },
+    "7710": {
+        "name": "東擎科技",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -253816,11 +253821,6 @@
     },
     "7707": {
         "name": "益芯科",
-        "prefix": "TPEX",
-        "market": "EMERGING"
-    },
-    "7710": {
-        "name": "東擎科技",
         "prefix": "TPEX",
         "market": "EMERGING"
     },
