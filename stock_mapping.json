@@ -44299,16 +44299,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "042439": {
-        "name": "國巨富邦5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "042447": {
-        "name": "台積電永豐5A購10",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "042512": {
         "name": "臺股指凱基5C購02",
         "prefix": "TWSE",
@@ -47219,11 +47209,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "050496": {
-        "name": "創意中信5A購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "050497": {
         "name": "創意中信5C購01",
         "prefix": "TWSE",
@@ -47236,16 +47221,6 @@
     },
     "050499": {
         "name": "聯鈞中信5B購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "050501": {
-        "name": "力成中信5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "050503": {
-        "name": "緯穎中信5A購05",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -47284,21 +47259,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "050542": {
-        "name": "道瓊銅凱基5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "050559": {
-        "name": "緯創凱基5A購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "050563": {
-        "name": "創意凱基5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "050564": {
         "name": "創意凱基5C購01",
         "prefix": "TWSE",
@@ -47309,28 +47269,13 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "050573": {
-        "name": "力積電凱基5A購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "050575": {
         "name": "勤誠凱基5C購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "050577": {
-        "name": "中鋼群益5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "050582": {
         "name": "群光群益5C購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "050586": {
-        "name": "晶豪科群益5A購03",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -62909,11 +62854,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "061759": {
-        "name": "東元富邦5A購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "061760": {
         "name": "華通富邦63購04",
         "prefix": "TWSE",
@@ -62974,83 +62914,13 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "061777": {
-        "name": "台達電國票5A購06",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061778": {
-        "name": "華通國票5A購06",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061779": {
-        "name": "台積電國票5A購08",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061780": {
-        "name": "奇鋐國票5A購04",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061781": {
-        "name": "大銀國票5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061782": {
-        "name": "和碩國票5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "061783": {
         "name": "矽力國票5B購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "061784": {
-        "name": "ITH國票5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061785": {
-        "name": "矽創國票5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "061787": {
         "name": "元石油國泰5B購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061788": {
-        "name": "為升國泰5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061789": {
-        "name": "為升國泰5A購02",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061790": {
-        "name": "華通國泰5A購05",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061791": {
-        "name": "奇鋐國泰5A購04",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061792": {
-        "name": "京鼎國泰5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061793": {
-        "name": "大銀國泰5A購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -63114,11 +62984,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "061844": {
-        "name": "台達電群益5A購03",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "061846": {
         "name": "華通群益63購05",
         "prefix": "TWSE",
@@ -63126,11 +62991,6 @@
     },
     "061849": {
         "name": "漢唐群益5C購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061850": {
-        "name": "京元電群益5A購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -63199,23 +63059,8 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "061893": {
-        "name": "帝寶元富5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061894": {
-        "name": "來億元富5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "061895": {
         "name": "瀚荃元富5B購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061896": {
-        "name": "鼎炫元富5A購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -63226,11 +63071,6 @@
     },
     "061899": {
         "name": "元債2X元大63購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061900": {
-        "name": "美債2X元大5A購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -63251,11 +63091,6 @@
     },
     "061923": {
         "name": "聯詠元大63購04",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "061926": {
-        "name": "嘉澤元大5A購04",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -191219,11 +191054,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "089898": {
-        "name": "滬深2X國票5A購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "089899": {
         "name": "晶彩科元大64購01",
         "prefix": "TWSE",
@@ -191636,11 +191466,6 @@
     },
     "089982": {
         "name": "直得富邦64購01",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
-    "089983": {
-        "name": "T50正2凱基5A購01",
         "prefix": "TWSE",
         "market": "TWSE"
     },
@@ -193179,16 +193004,6 @@
         "prefix": "TPEX",
         "market": "TPEX"
     },
-    "701095": {
-        "name": "擎亞元大5A購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "701097": {
-        "name": "營邦元大5A購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
     "701130": {
         "name": "元債20元大5B購01",
         "prefix": "TPEX",
@@ -193891,11 +193706,6 @@
     },
     "703171": {
         "name": "宜鼎元大5C購03",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "703229": {
-        "name": "台特化凱基5A購01",
         "prefix": "TPEX",
         "market": "TPEX"
     },
@@ -198644,23 +198454,8 @@
         "prefix": "TPEX",
         "market": "TPEX"
     },
-    "706853": {
-        "name": "東捷國泰5A購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
     "706856": {
         "name": "宜特元富5C購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "706857": {
-        "name": "匯鑽科元富5A購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "706859": {
-        "name": "漢科元富5A購01",
         "prefix": "TPEX",
         "market": "TPEX"
     },
@@ -198684,11 +198479,6 @@
         "prefix": "TPEX",
         "market": "TPEX"
     },
-    "706868": {
-        "name": "順達群益5A購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
     "706871": {
         "name": "鈊象群益5B購01",
         "prefix": "TPEX",
@@ -198704,28 +198494,8 @@
         "prefix": "TPEX",
         "market": "TPEX"
     },
-    "706876": {
-        "name": "久元國票5A購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "706877": {
-        "name": "美琪瑪國票5A購02",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
     "706878": {
         "name": "神盾國票62購01",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "706879": {
-        "name": "鈊象國票5A購03",
-        "prefix": "TPEX",
-        "market": "TPEX"
-    },
-    "706880": {
-        "name": "頎邦國票5A購03",
         "prefix": "TPEX",
         "market": "TPEX"
     },
