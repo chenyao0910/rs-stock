@@ -684,11 +684,6 @@
         "prefix": "TWSE",
         "market": "TWSE"
     },
-    "1589": {
-        "name": "永冠-KY",
-        "prefix": "TWSE",
-        "market": "TWSE"
-    },
     "1590": {
         "name": "亞德客-KY",
         "prefix": "TWSE",
@@ -274701,6 +274696,11 @@
     },
     "6622": {
         "name": "百聿數碼",
+        "prefix": "TPEX",
+        "market": "EMERGING"
+    },
+    "6623": {
+        "name": "施吉生技",
         "prefix": "TPEX",
         "market": "EMERGING"
     },
